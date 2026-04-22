@@ -93,11 +93,3 @@ O proxy do Vite redireciona `/api` para `http://localhost:5000`.
 5. O backend envia o resultado final para a API externa quando solicitado.
 6. O frontend exibe grupos, chaveamento, final e campeão.
 
-## Observações
-
-- A versão antiga da aplicação foi removida da raiz.
-- A estrutura principal do projeto agora está concentrada em `Solution/`.
-- Se quiser evoluir a entrega, os próximos passos ideais são:
-  - adicionar testes automatizados no backend
-  - criar um `.editorconfig`
-  - incluir CI para build do backend e frontend
