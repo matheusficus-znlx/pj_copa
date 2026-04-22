@@ -1,4 +1,5 @@
-# Simulador da Copa do Mundo 2022
+# Simulador da Copa do Mundo 2026
+
 
 Projeto reorganizado com frontend e backend separados em uma solução mais próxima de um cenário real de avaliação técnica.
 
